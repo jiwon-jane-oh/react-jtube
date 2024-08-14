@@ -1,0 +1,1286 @@
+{
+  "kind": "youtube#playlistItemListResponse",
+  "etag": "GQcfi2Q0zrwJdXR2a5AOMQ5obL0",
+  "nextPageToken": "EAAaelBUOkNCa2lFRU00TXpBek5EZzRSVVZHUlVJNE5VWW9BVWpra2Z6bm92V0hBMUFCV2pZaVEyaG9WbFpZWjNSVE1XUk5Wa1YwYzFGcVozcGhSVkpLVG14V1RGSlZUakJUYkVWVFEzZHFWVzFtVXpGQ2FFTm5OV013YXlJ",
+  "items": [
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "j-eDox05ABccJ0i_90aKTFgBEb4",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLkVhMEhRNUMwN0pF",
+          "snippet": {
+              "publishedAt": "2024-08-14T20:00:09Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "The Jinx Podcast | Bonus Episode 1 | Max",
+              "description": "In a special bonus episode, Andrew and Zac take listener questions that have lingered in the wake of the Part Two finale. They explore topics including how Prudence Farrow fits into the Bob Durst story, who John Lewin went to visit after the trial and how Bob bullied his siblings in creative and disturbing ways.\n\nThe Jinx is streaming on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Ea0HQ5C07JE/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Ea0HQ5C07JE/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Ea0HQ5C07JE/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Ea0HQ5C07JE/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/Ea0HQ5C07JE/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 0,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "Ea0HQ5C07JE"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "Ea0HQ5C07JE",
+              "videoPublishedAt": "2024-08-14T20:00:09Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "Sq7p4Fg1oXS1xWuW-ecf0qmRzjM",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLlg1OE0xdXJmYjA0",
+          "snippet": {
+              "publishedAt": "2024-08-14T13:00:40Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "The most natural chip color.",
+              "description": "All episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\n#HOTD #HouseOfTheDragon #EwanMitchell #AemondTargaryen #TomGlynnCarney #AegonTargaryen #HBO\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/X58M1urfb04/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/X58M1urfb04/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/X58M1urfb04/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/X58M1urfb04/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/X58M1urfb04/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 1,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "X58M1urfb04"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "X58M1urfb04",
+              "videoPublishedAt": "2024-08-14T13:00:40Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "qxJGBFITESq9YSdqjsj7ndESvdE",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLklYalVZcEZ2cF9J",
+          "snippet": {
+              "publishedAt": "2024-08-13T22:00:10Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "When they laugh, the realm smiles.",
+              "description": "All episodes of the HBO Original Series House of the Dragon are now streaming on Max.\n\n#HOTD #HouseOfTheDragon #FabienFrankel #CristonCole #MattSmith #DaemonTargaryen #HBO\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/IXjUYpFvp_I/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/IXjUYpFvp_I/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/IXjUYpFvp_I/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/IXjUYpFvp_I/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/IXjUYpFvp_I/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 2,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "IXjUYpFvp_I"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "IXjUYpFvp_I",
+              "videoPublishedAt": "2024-08-13T22:00:10Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "gQB110OZS8zcYZOaK01b2MZNfKg",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLlh4VlpHcU92NDFV",
+          "snippet": {
+              "publishedAt": "2024-08-13T19:00:08Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Hard Knocks: Training Camp with Chicago Bears | Episode 2 Preview | Max",
+              "description": "A new episode of #HardKnocks with the Chicago Bears premieres tonight at 9pm ET on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/XxVZGqOv41U/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/XxVZGqOv41U/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/XxVZGqOv41U/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/XxVZGqOv41U/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/XxVZGqOv41U/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 3,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "XxVZGqOv41U"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "XxVZGqOv41U",
+              "videoPublishedAt": "2024-08-13T19:00:08Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "cQ_7LuihHBt5SADajyE07x9lQK4",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLkJmYlg1SUNZTDVB",
+          "snippet": {
+              "publishedAt": "2024-08-13T13:00:09Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Emoji masterminds.",
+              "description": "All episodes of the HBO Original Series House of the Dragon are now streaming on Max.\n\n#HOTD #HouseOfTheDragon #HBO #EwanMitchell #AemondTargaryen #TomGlynnCarney #AegonTargaryen #PhoebeCampbell #RhaenaTargaryen \n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/BfbX5ICYL5A/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/BfbX5ICYL5A/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/BfbX5ICYL5A/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/BfbX5ICYL5A/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/BfbX5ICYL5A/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 4,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "BfbX5ICYL5A"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "BfbX5ICYL5A",
+              "videoPublishedAt": "2024-08-13T13:00:09Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "CARxwJcFbDRBxVIGnnF_SKELmwc",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmEzcnAtOGE4bFRv",
+          "snippet": {
+              "publishedAt": "2024-08-12T22:00:01Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Reading is the new mewing.",
+              "description": "All episodes of the HBO Original Series House of the Dragon are now streaming on Max.\n\n#HOTD #HouseOfTheDragon #HBO #HarryCollett #JacaerysVelaryon #BethanyAntonia #BaelaTargaryen\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/a3rp-8a8lTo/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/a3rp-8a8lTo/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/a3rp-8a8lTo/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/a3rp-8a8lTo/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/a3rp-8a8lTo/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 5,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "a3rp-8a8lTo"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "a3rp-8a8lTo",
+              "videoPublishedAt": "2024-08-12T22:00:01Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "LZ7Zj4jZX_xbIeGdO4o7S7fF2iY",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLndEeUI3YkFDOU4w",
+          "snippet": {
+              "publishedAt": "2024-08-12T21:00:35Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Daemon Targaryen Sees The Future of House Targaryen | House of the Dragon | Max",
+              "description": "Do you wish to learn what is given to you?\n\nAll episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/wDyB7bAC9N0/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/wDyB7bAC9N0/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/wDyB7bAC9N0/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/wDyB7bAC9N0/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/wDyB7bAC9N0/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 6,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "wDyB7bAC9N0"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "wDyB7bAC9N0",
+              "videoPublishedAt": "2024-08-12T21:00:35Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "bpb1JPOjifQ7U4TRHmJ-ZLtgTNc",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmcxQ3AwZUg1Y1lr",
+          "snippet": {
+              "publishedAt": "2024-08-12T17:00:10Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Hard Knocks Franchise | Official Promo | Max",
+              "description": "The HBO Original Series #HardKnocks brings you the stories that drive the game. Now all year long on Max.\n\nOffseason: @nygiants all episodes now streaming. \nTraining Camp: @ChicagoBears Tuesdays at 9 pm ET.\nIn-Season: AFC North premieres December 3. \n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/g1Cp0eH5cYk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/g1Cp0eH5cYk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/g1Cp0eH5cYk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/g1Cp0eH5cYk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/g1Cp0eH5cYk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 7,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "g1Cp0eH5cYk"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "g1Cp0eH5cYk",
+              "videoPublishedAt": "2024-08-12T17:00:10Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "5Kfkp2v0cBMrvdUEgOd-yj_Vw7s",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmMxbW1SU0hHSVlr",
+          "snippet": {
+              "publishedAt": "2024-08-12T13:00:42Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Ever wondered what actors eat in food scenes? Now you know.",
+              "description": "All episodes of the HBO Original Series House of the Dragon are now streaming on Max.\n\n#HOTD #HouseOfTheDragon #HarryCollett #JacaerysVelaryon #KieranBew #HughHammer #TomBennett #Ulf #ClintonLiberty #AddamofHull #BethanyAntonia #BaelaTargaryen\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/c1mmRSHGIYk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/c1mmRSHGIYk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/c1mmRSHGIYk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/c1mmRSHGIYk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/c1mmRSHGIYk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 8,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "c1mmRSHGIYk"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "c1mmRSHGIYk",
+              "videoPublishedAt": "2024-08-12T13:00:42Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "Bl0X6HA1rUIsN1XBvSsDc-30f4g",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmNLMFZQWGRLSExn",
+          "snippet": {
+              "publishedAt": "2024-08-11T22:00:30Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "The kindest in all the realm delivering the harshest message.",
+              "description": "All episodes of the HBO Original Series House of the Dragon are now streaming on Max.\n\n#HOTD #HouseOfTheDragon #EwanMitchell #AemondTargaryen #PhiaSaban #HelaenaTargaryen #HBO\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/cK0VPXdKHLg/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/cK0VPXdKHLg/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/cK0VPXdKHLg/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/cK0VPXdKHLg/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/cK0VPXdKHLg/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 9,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "cK0VPXdKHLg"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "cK0VPXdKHLg",
+              "videoPublishedAt": "2024-08-11T22:00:30Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "2pgp89EkQ-FbGUkzGZ9AQheLZUg",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLnROUjN4azNhN1RV",
+          "snippet": {
+              "publishedAt": "2024-08-11T13:00:52Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Quite the introduction.",
+              "description": "The new HBO Original Limited Series #ThePenguin premieres September 19 on Max. #TheBatman is streaming now. #MaxGetsMovies\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/tNR3xk3a7TU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/tNR3xk3a7TU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/tNR3xk3a7TU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/tNR3xk3a7TU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/tNR3xk3a7TU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 10,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "tNR3xk3a7TU"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "tNR3xk3a7TU",
+              "videoPublishedAt": "2024-08-11T13:00:52Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "1YehhdtTiK9OPuOjLdDi3Q2uB0A",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLkcwdEpXWUtOekY4",
+          "snippet": {
+              "publishedAt": "2024-08-10T22:00:12Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "A man of many talents.",
+              "description": "All episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\n#HOTD #FabienFrankel #CristonCole #MattSmith #DaemonTargaryen\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/G0tJWYKNzF8/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/G0tJWYKNzF8/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/G0tJWYKNzF8/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/G0tJWYKNzF8/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/G0tJWYKNzF8/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 11,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "G0tJWYKNzF8"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "G0tJWYKNzF8",
+              "videoPublishedAt": "2024-08-10T22:00:12Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "9zjsKDSMazcHMNZNZtLMWmS3MUc",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmtKbjZMMjJZZllR",
+          "snippet": {
+              "publishedAt": "2024-08-10T18:00:31Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Until the end.",
+              "description": "All episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max. \n\n#HOTD #DaemonTargaryen #MattSmith #RhaenyraTargaryen #EmmaDArcy #HBO\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/kJn6L22YfYQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/kJn6L22YfYQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/kJn6L22YfYQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/kJn6L22YfYQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/kJn6L22YfYQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 12,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "kJn6L22YfYQ"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "kJn6L22YfYQ",
+              "videoPublishedAt": "2024-08-10T18:00:31Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "mA65iTSmo4MTgOKytMmiQ_c4we4",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLnl4azQ2bi1OZjNr",
+          "snippet": {
+              "publishedAt": "2024-08-10T14:01:01Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Olivia is choosing peace.",
+              "description": "All episodes of the HBO Original Series House of the Dragon are now streaming on Max. \n\n#HOTD #HouseOfTheDragon #EmmaDArcy #RhaenyraTargaryen #OliviaCooke #AlicentHightower #WaystarRoyco #Succession #HBO\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/yxk46n-Nf3k/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/yxk46n-Nf3k/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/yxk46n-Nf3k/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/yxk46n-Nf3k/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/yxk46n-Nf3k/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 13,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "yxk46n-Nf3k"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "yxk46n-Nf3k",
+              "videoPublishedAt": "2024-08-10T14:01:01Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "_2EGzSFujdFNLzAqCsBr3IJdtYg",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLnd4SE1vcjh1ZUVr",
+          "snippet": {
+              "publishedAt": "2024-08-09T13:00:57Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "And that's a wrap.",
+              "description": "All episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\n#HBO #HOTD #EmmaDArcy #RhaenyraTargaryen #OliviaCooke #AlicentHightower\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/wxHMor8ueEk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/wxHMor8ueEk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/wxHMor8ueEk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/wxHMor8ueEk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/wxHMor8ueEk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 14,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "wxHMor8ueEk"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "wxHMor8ueEk",
+              "videoPublishedAt": "2024-08-09T13:00:57Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "3IXr_OMVAfT-S4WMrUOBxRwU9NM",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLkdkbDEyVWc4R0lV",
+          "snippet": {
+              "publishedAt": "2024-08-08T22:00:10Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Thank you.",
+              "description": "The HBO Original Series Succession is streaming on Max.\n\n#Succession #MatthewMacfadyen #TomWambsgans #LoganRoy #BrianCox #HBO\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/Gdl12Ug8GIU/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/Gdl12Ug8GIU/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/Gdl12Ug8GIU/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/Gdl12Ug8GIU/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/Gdl12Ug8GIU/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 15,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "Gdl12Ug8GIU"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "Gdl12Ug8GIU",
+              "videoPublishedAt": "2024-08-08T22:00:10Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "xXu54HDsGHqATjKuXqlTvliVpqg",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmxwZlNZcVB0dDE0",
+          "snippet": {
+              "publishedAt": "2024-08-08T19:00:31Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "The Official Hard Knocks Podcast: Training Camp with The Chicago Bears | Episode 1 | Max",
+              "description": "Host Peter Schrager breaks down the Bears' Hard Knocks debut and is joined by Pro Football Hall of Famer Brian Urlacher to talk about what it’s like to be the face of the franchise.\n\nThe HBO Original Series #HardKnocks: Training Camp with the Chicago Bears is streaming on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/lpfSYqPtt14/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/lpfSYqPtt14/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/lpfSYqPtt14/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/lpfSYqPtt14/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/lpfSYqPtt14/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 16,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "lpfSYqPtt14"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "lpfSYqPtt14",
+              "videoPublishedAt": "2024-08-08T19:00:31Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "_hYIgo-uWFoJi8_48eoSEpcPqcQ",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLlcweElwaC1MRVlZ",
+          "snippet": {
+              "publishedAt": "2024-08-08T13:00:26Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "She's his lobster.",
+              "description": "Friends is streaming on Max.\n\n#RossGellar #DavidSchwimmer #PhoebeBuffay #LisaKudrow #MatthewPerry #ChandlerBing\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/W0xIph-LEYY/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/W0xIph-LEYY/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/W0xIph-LEYY/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/W0xIph-LEYY/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/W0xIph-LEYY/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 17,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "W0xIph-LEYY"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "W0xIph-LEYY",
+              "videoPublishedAt": "2024-08-08T13:00:26Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "m7rm4-3jxjYFh6JfbSY2ZM0fxE8",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLjN0eDlRMTlFc1Nr",
+          "snippet": {
+              "publishedAt": "2024-08-07T23:00:07Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Seems like a #GretaGerwig movie marathon kind of day.",
+              "description": "Mistress America and 20th Century Women are streaming on Max.\n\n#MistressAmerica #20thCenturyWomen #MaxGetsMovies\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/3tx9Q19EsSk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/3tx9Q19EsSk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/3tx9Q19EsSk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/3tx9Q19EsSk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/3tx9Q19EsSk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 18,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "3tx9Q19EsSk"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "3tx9Q19EsSk",
+              "videoPublishedAt": "2024-08-07T23:00:07Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "w-r8DZLiSu0pnq-P_Jkv7vcmP1M",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmw4NF9nNEticV9B",
+          "snippet": {
+              "publishedAt": "2024-08-07T18:00:32Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Rhaenyra Tells Alicent A Son For A Son | House of the Dragon | Max",
+              "description": "A cold queen.\n\nAll episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/l84_g4Kbq_A/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/l84_g4Kbq_A/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/l84_g4Kbq_A/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/l84_g4Kbq_A/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/l84_g4Kbq_A/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 19,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "l84_g4Kbq_A"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "l84_g4Kbq_A",
+              "videoPublishedAt": "2024-08-07T18:00:32Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "cCHOTSRLt88tcc91LLNoTtFhImU",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLnd1N1Flc0tXQ3lz",
+          "snippet": {
+              "publishedAt": "2024-08-07T13:01:04Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "He fights for the queen!",
+              "description": "All episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/wu7QesKWCys/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/wu7QesKWCys/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/wu7QesKWCys/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/wu7QesKWCys/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/wu7QesKWCys/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 20,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "wu7QesKWCys"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "wu7QesKWCys",
+              "videoPublishedAt": "2024-08-07T13:01:04Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "MWjWykSkW3awGyOtNzkNUHo1lwg",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLmRSMmN2NXVzakxz",
+          "snippet": {
+              "publishedAt": "2024-08-06T19:00:25Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "How The House of the Dragon's Prosthetics Are Made | House of the Dragon | Max",
+              "description": "Don't eat while you watch this.\n\nAll episodes of the HBO Original Series #HouseOfTheDragon are now streaming on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/dR2cv5usjLs/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/dR2cv5usjLs/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/dR2cv5usjLs/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/dR2cv5usjLs/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/dR2cv5usjLs/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 21,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "dR2cv5usjLs"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "dR2cv5usjLs",
+              "videoPublishedAt": "2024-08-06T19:00:25Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "Ws4LcwhAf_bC8FejYtCnLlG8Z6A",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLk5DenBZR2o3Y2Zr",
+          "snippet": {
+              "publishedAt": "2024-08-06T17:00:16Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Max Original Series Duster | Coming In 2025 | Max",
+              "description": "1972. The first Black female FBI agent, a gutsy getaway driver, and a growing crime syndicate. From #JJAbrams and #LaToyaMorgan, the Max Original Series #DUSTER is coming soon to Max. \n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/NCzpYGj7cfk/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/NCzpYGj7cfk/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/NCzpYGj7cfk/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/NCzpYGj7cfk/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/NCzpYGj7cfk/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 22,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "NCzpYGj7cfk"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "NCzpYGj7cfk",
+              "videoPublishedAt": "2024-08-06T17:00:16Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "8by6Hw3c9Kvn5Fw4zKXoYspsA2I",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLjJKVEZkV2o3WGRR",
+          "snippet": {
+              "publishedAt": "2024-08-06T16:30:02Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Hard Knocks: Training Camp with Chicago Bears | Episode 1 Preview | Max",
+              "description": "Expectations are a killer but development is key. The @HBO Original Series #HardKnocks Training Camp with the Chicago Bears premieres at 9 pm ET on Max.\n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/2JTFdWj7XdQ/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/2JTFdWj7XdQ/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/2JTFdWj7XdQ/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/2JTFdWj7XdQ/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/2JTFdWj7XdQ/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 23,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "2JTFdWj7XdQ"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "2JTFdWj7XdQ",
+              "videoPublishedAt": "2024-08-06T16:30:02Z"
+          }
+      },
+      {
+          "kind": "youtube#playlistItem",
+          "etag": "YQ1_coARgX0zzyYru0ajMFCBIS0",
+          "id": "VVV4LUtXTFRLbEI4M2hESTZVS0VDdEpRLjBFemFxLV9rT2lJ",
+          "snippet": {
+              "publishedAt": "2024-08-06T15:00:02Z",
+              "channelId": "UCx-KWLTKlB83hDI6UKECtJQ",
+              "title": "Max Original Series The Sex Lives of College Girls Season 3 | Coming In 2025 | Max",
+              "description": "Sophomore year is almost in session. Season 3 of the Max Original Series #TheSexLivesOfCollegeGirls is coming soon to Max. \n\nAbout Max:\nMax is the culture-defining entertainment service for every mood. With a variety of genres that include your favorite series and movies from iconic brands and treasured franchises, it delivers irresistible stories every time. From reuniting with life-long favorites to uncovering new ones you haven’t discovered yet, there's something for every moment, every feeling, every you.\n\nIt’s all here. Iconic series, award-winning movies, fresh originals, and family favorites featuring the worlds of Harry Potter, the DC Universe, and HBO. Discover the best entertainment for every mood. Introducing Max – the one to watch.\n#WarnerBrosDiscovery #streamonmax #theonetowatch\n\nSUBSCRIBE TO MAX\nhttps://streamonm.ax/3vgR69B\n\nGET MAX\nhttps://streamonm.ax/4a83GYO\n\nFOLLOW MAX\nFollow Max on YouTube: https://streamonm.ax/YouTube\nFollow Max on Instagram: https://streamonm.ax/Instagram\nFollow Max on TikTok: https://streamonm.ax/TikTok\nFollow Max on Twitter: https://streamonm.ax/Twitter\nFollow Max on Facebook: https://streamonm.ax/Facebook",
+              "thumbnails": {
+                  "default": {
+                      "url": "https://i.ytimg.com/vi/0Ezaq-_kOiI/default.jpg",
+                      "width": 120,
+                      "height": 90
+                  },
+                  "medium": {
+                      "url": "https://i.ytimg.com/vi/0Ezaq-_kOiI/mqdefault.jpg",
+                      "width": 320,
+                      "height": 180
+                  },
+                  "high": {
+                      "url": "https://i.ytimg.com/vi/0Ezaq-_kOiI/hqdefault.jpg",
+                      "width": 480,
+                      "height": 360
+                  },
+                  "standard": {
+                      "url": "https://i.ytimg.com/vi/0Ezaq-_kOiI/sddefault.jpg",
+                      "width": 640,
+                      "height": 480
+                  },
+                  "maxres": {
+                      "url": "https://i.ytimg.com/vi/0Ezaq-_kOiI/maxresdefault.jpg",
+                      "width": 1280,
+                      "height": 720
+                  }
+              },
+              "channelTitle": "Max",
+              "playlistId": "UUx-KWLTKlB83hDI6UKECtJQ",
+              "position": 24,
+              "resourceId": {
+                  "kind": "youtube#video",
+                  "videoId": "0Ezaq-_kOiI"
+              },
+              "videoOwnerChannelTitle": "Max",
+              "videoOwnerChannelId": "UCx-KWLTKlB83hDI6UKECtJQ"
+          },
+          "contentDetails": {
+              "videoId": "0Ezaq-_kOiI",
+              "videoPublishedAt": "2024-08-06T15:00:02Z"
+          }
+      }
+  ],
+  "pageInfo": {
+      "totalResults": 4490,
+      "resultsPerPage": 25
+  }
+}
